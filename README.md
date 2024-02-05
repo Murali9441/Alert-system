@@ -1,14 +1,4 @@
-# Alert-system
-
-
-
-
-
-
-
-
-
-
+# Alert-system   
 #include <Servo.h>
 Servo myservo;  
 const int trigPin = 9;
